@@ -1,0 +1,28 @@
+/* Estilos generales de la página */
+body {
+  background-color: #f0f4ff;      /* Fondo azul muy claro */
+  font-family: Arial, sans-serif; /* Fuente general de la página */
+}
+
+/* Estilos del título principal */
+h1 {
+  color: red;          /* Cambia el texto a rojo */
+  font-family: Arial;  /* Define el tipo de letra */
+  font-size: 55px;     /* Establece el tamaño del título */
+  text-align: center;  /* Centra el título horizontalmente */
+}
+
+/* Estilos de los párrafos */
+p {
+  color: #444444;   /* Texto gris oscuro */
+  font-size: 16px;  /* Tamaño de letra de los párrafos */
+}
+
+/* Estilos de los elementos que tienen la clase "tarjeta" */
+.tarjeta {
+  background-color: white;     /* Fondo blanco de la tarjeta */
+  border: 12px solid #2c3e90;  /* Grosor, tipo de línea y color del borde */
+  width: 300px;                /* Ancho del contenido de la tarjeta */
+  margin: 10px auto;           /* Margen vertical y centrado horizontal */
+  padding: 20px;               /* Espacio entre el contenido y el borde */
+}

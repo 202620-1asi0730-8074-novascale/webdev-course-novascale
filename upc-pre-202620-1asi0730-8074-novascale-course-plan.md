@@ -22,16 +22,16 @@ requiere descargas**, utiliza la herramienta en linea codepen.io.
 - **Enlace**: [Ver la lección](https://youtu.be/BzxV1RAM1BI)
 - **Consejos clave**: Agregar referencias, encabezados, imágenes y enlaces.
 - **Práctica**: [Aplica los elementos básicos](https://codepen.io/Johan-Bottger/pen/BypWOdW) 👈 **¡No es necesario registrarse!**
-### Lección 4: Introducción a CSS (12 minutos)
-- **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
-- **Enlace**: [Ver la lección](https://youtu.be/4KTnKp2MM94)
-- **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: white; }`.
-- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/CODE-MON/pen/vEgXQzG) 👈 **¡No es necesario registrarse!**
-### Lección 5: Creación de página (tutorial simple) (7 minutos)
-- **Descripción**: Pon a prueba el conocimiento aprendido de HTML y CSS para crear una página web simple.
-- **Enlace**: [Ver la lección](https://youtu.be/blShhDN9b1E)
-- **Consejos clave**: Crea una estructura con HTML y dale estilo con CSS.
-- **Práctica**: [Pon a prueba lo aprendido](https://codepen.io/Johan-Bottger/pen/KwaWxvQ) 👈 **¡No es necesario registrarse!**
+### Lección 4: Introducción a CSS (9 minutos y 8 segundos)
+- **Descripción**: Aprende a dar estilo a una página HTML en CodePen. Cambia el color, la fuente y el tamaño del texto, centra el título y diseña una tarjeta con fondo blanco y borde azul.
+- **Enlace**: [Ver la lección] (https://youtu.be/wx_oNjjXbX8?si=wbbSPMljX9KVifDO)
+- **Consejos clave**: Usa selectores como `h1`, `p` y `body` para aplicar estilos a las etiquetas. Escribe `.tarjeta` para seleccionar una clase. Recuerda que `margin` controla el espacio exterior y `padding`, el espacio interior.
+- **Práctica**: [Diseña una tarjeta con CSS] (https://codepen.io/dqhxbiyc-the-bold/pen/ZYewqPm). Prueba a cambiar los colores, el borde y el espacio interior de la tarjeta.
+### Lección 5: Crea una página de perfil con HTML y CSS (7 minutos y 52 segundos)
+- **Descripción**: Crea en CodePen una página de perfil con un título, una foto circular, un saludo y un párrafo de presentación.
+- **Enlace**: [Ver la lección](https://youtu.be/1r-Aw1wFDgw?si=pqFXwRFMjNeQdPYN)
+- **Consejos clave**: Usa `src` para indicar la dirección de la imagen y `alt` para describirla. Dale a la foto el mismo ancho y alto, aplica `object-fit: cover` para recortarla sin deformarla y usa `border-radius: 50%` para hacerla circular.
+- **Práctica**: [Personaliza tu página de perfil en CodePen](https://codepen.io/dqhxbiyc-the-bold/pen/wBJNYZr). Cambia la foto, el saludo y los colores para hacerla tuya.
 ### Lección 6: Errores comunes y recomendaciones en el desarrollo web (5 minutos)
 - **Descripción**: Conoce errores comunes que los desarrolladores cometen en el desarrollo web y aprende consejos para principiantes.
 - **Enlace**: [Ver la lección](https://youtu.be/B9s6MZWiwVY)
