@@ -1,0 +1,16 @@
+body {
+  background: #0b1220;
+  color: #f7f9fc;
+  font-family: sans-serif;
+  padding: 24px;
+}
+
+main {
+  border: 2px solid #a3e635;
+  border-radius: 16px;
+  padding: 24px;
+}
+
+h1 {
+  color: #a3e635;
+}
