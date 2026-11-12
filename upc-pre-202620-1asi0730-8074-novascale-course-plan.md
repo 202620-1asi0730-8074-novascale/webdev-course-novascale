@@ -17,11 +17,11 @@ requiere descargas**, utiliza la herramienta en linea codepen.io.
 - **Enlace**: [Ver la lección](https://youtu.be/Bh4wiMgptAE)
 - **Consejos clave**: Toda página moderna debe iniciar con `<!DOCTYPE html>`. Recuerda que las configuraciones invisibles como `<meta charset="UTF-8">` y `<title>` deben ir dentro del `<head>`, mientras que todo el contenido visual debe colocarse dentro del `<body>`.
 - **Práctica**: [Crea tu primera estructura HTML](https://codepen.io/editor/Lui-Gamero/pen/01a1655d-2154-7189-87de-5f8bdf6f6be5) 👈 **¡No es necesario registrarse!**
-### Lección 3: Elementos HTML comunes (7 minutos)
+### Lección 3: Elementos HTML comunes (5 minutos y 9 segundos)
 - **Descripción**: Conoce los elementos más usados en HTML
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=zwMfw5ipY4U)
 - **Consejos clave**: Agregar referencias, encabezados, imágenes y enlaces.
-- **Práctica**: [Aplica los elementos básicos](https://codepen.io/Johan-Bottger/pen/BypWOdW) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Aplica los elementos básicos](https://codepen.io/editor/Renzo-Retuerto/pen/01a1ce26-b215-775b-b6cb-1dbba74ec37a) 👈 **¡No es necesario registrarse!**
 ### Lección 4: Introducción a CSS (9 minutos y 8 segundos)
 - **Descripción**: Aprende a dar estilo a una página HTML en CodePen. Cambia el color, la fuente y el tamaño del texto, centra el título y diseña una tarjeta con fondo blanco y borde azul.
 - **Enlace**: [Ver la lección](https://youtu.be/wx_oNjjXbX8?si=wbbSPMljX9KVifDO)
