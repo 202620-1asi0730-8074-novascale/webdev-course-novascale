@@ -29,7 +29,7 @@ requiere descargas**, utiliza la herramienta en linea codepen.io.
 - **Práctica**: [Diseña una tarjeta con CSS](https://codepen.io/dqhxbiyc-the-bold/pen/ZYewqPm) 👈 **¡No es necesario registrarse!**
 ### Lección 5: Crea una página web simple con HTML y CSS (7 minutos)
 - **Descripción**: Crea en CodePen una página de perfil con un título, una foto circular, un saludo y un párrafo de presentación.
-- **Enlace**: [Ver la lección](https://youtu.be/M2hT_D3XFr4)
+- **Enlace**: [Ver la lección](https://youtu.be/01t9kzM2z_k)
 - **Consejos clave**: Usa `src` para indicar la dirección de la imagen y `alt` para describirla. Dale a la foto el mismo ancho y alto, aplica `object-fit: cover` para recortarla sin deformarla y usa `border-radius: 50%` para hacerla circular.
 - **Práctica**: [Personaliza tu página de perfil en CodePen](https://codepen.io/dqhxbiyc-the-bold/pen/wBJNYZr) 👈 **¡No es necesario registrarse!**
 ### Lección 6: Errores comunes y recomendaciones en el desarrollo web (5 minutos)
