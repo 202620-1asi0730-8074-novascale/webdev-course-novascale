@@ -1,12 +1,12 @@
 # Fundamentos de Desarrollo Web
 ## Resumen del Curso
-Este curso de 50 minutos introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. **No
+Este curso de 45 minutos introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. **No
 requiere descargas**, utiliza la herramienta en linea codepen.io.
-**Duración total**: 
+**Duración total**: 45 minutos aproximadamente.
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
 **Prerrequisitos**: Ninguno
 **Herramientas necesarias**: **Navegador web** (Chrome, Firefox, Safari, Edge), **Conexion a internet**
-**📂 Repositorio de código fuente**: [https://github.com/Deskjobo/webdev-course-smartindustries.git](https://github.com/Deskjobo/webdev-course-smartindustries.git)
+**📂 Repositorio de código fuente**: [https://github.com/202620-1asi0730-8074-novascale/webdev-course-novascale.git](https://github.com/202620-1asi0730-8074-novascale/webdev-course-novascale.git)
 ## Secuencia de la lección
 ### Lección 1: Introducción al desarrollo web (5 minutos y 25 segundos)
 - *Descripción*: Conoce los usos principales de los sitios web y una introducción básica a su estructura.
@@ -27,17 +27,17 @@ requiere descargas**, utiliza la herramienta en linea codepen.io.
 - **Enlace**: [Ver la lección](https://youtu.be/wx_oNjjXbX8?si=wbbSPMljX9KVifDO)
 - **Consejos clave**: Usa selectores como `h1`, `p` y `body` para aplicar estilos a las etiquetas. Escribe `.tarjeta` para seleccionar una clase. Recuerda que `margin` controla el espacio exterior y `padding`, el espacio interior.
 - **Práctica**: [Diseña una tarjeta con CSS](https://codepen.io/dqhxbiyc-the-bold/pen/ZYewqPm) 👈 **¡No es necesario registrarse!**
-### Lección 5: Crea una página de perfil con HTML y CSS (7 minutos y 52 segundos)
+### Lección 5: Crea una página web simple con HTML y CSS (7 minutos)
 - **Descripción**: Crea en CodePen una página de perfil con un título, una foto circular, un saludo y un párrafo de presentación.
-- **Enlace**: [Ver la lección](https://youtu.be/1r-Aw1wFDgw?si=pqFXwRFMjNeQdPYN)
+- **Enlace**: [Ver la lección](https://youtu.be/M2hT_D3XFr4)
 - **Consejos clave**: Usa `src` para indicar la dirección de la imagen y `alt` para describirla. Dale a la foto el mismo ancho y alto, aplica `object-fit: cover` para recortarla sin deformarla y usa `border-radius: 50%` para hacerla circular.
 - **Práctica**: [Personaliza tu página de perfil en CodePen](https://codepen.io/dqhxbiyc-the-bold/pen/wBJNYZr) 👈 **¡No es necesario registrarse!**
 ### Lección 6: Errores comunes y recomendaciones en el desarrollo web (5 minutos)
 - **Descripción**: Conoce errores comunes que los desarrolladores cometen en el desarrollo web y aprende consejos para principiantes.
-- **Enlace**: [Ver la lección](https://youtu.be/B9s6MZWiwVY)
+- **Enlace**: [Ver la lección](https://youtu.be/9TXR51mACT4)
 - **Consejos clave**: Documentación, Accesibilidad, Buenas prácticas.
 ## Recursos Adicionales
-- **Código Fuente Completo**: [https://github.com/Deskjobo/webdev-course-smartindustries.git](https://github.com/Deskjobo/webdev-course-smartindustries.git)
+- **Código Fuente Completo**: [https://github.com/202620-1asi0730-8074-novascale/webdev-course-novascale.git](https://github.com/202620-1asi0730-8074-novascale/webdev-course-novascale.git)
 **¡Gracias por completar el curso!**
 ---
 ## 👥 Elaboración
