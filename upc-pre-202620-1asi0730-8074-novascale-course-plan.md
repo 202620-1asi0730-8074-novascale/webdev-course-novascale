@@ -41,11 +41,8 @@ requiere descargas**, utiliza la herramienta en linea codepen.io.
 **¡Gracias por completar el curso!**
 ---
 ## 👥 Elaboración
-Universidad Peruana de Ciencias Aplicadas
 Carrera de Ingeniería de Software
-Período 202610
-1ASI0730 Aplicaciones Web
-NRC 8074
+Período 202620
 **Nombre del equipo**: Novascale
-**Integrantes del equipo**: 
+**Integrantes del equipo**: Sergio Rubén Caldas García, Darío Alberto Romero Vilela, Johan Karl Bottger Salazar, Renzo Paul Retuerto Zapata, Lui Mathias Gamero Miranda
 **Fecha de entrega**: 12-11-2026
